@@ -1,0 +1,9 @@
+# Ignorar envs e configs locais
+.venv/
+.dbt/
+.env
+__pycache__/
+*.pyc
+logs/
+dbt_packages/
+target/
