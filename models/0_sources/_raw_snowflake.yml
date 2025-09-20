@@ -1,0 +1,68 @@
+sources:
+  - name: raw_snowflake
+    database: FEA24_11
+    schema: RAW_ADVENTURE_WORKS
+    description: >
+      Source description
+    tables:
+      - name: SALESORDERDETAIL
+        description: >
+          Table Description
+
+      - name: SALESORDERHEADER
+        description: >
+          Table Description
+
+      - name: CREDITCARD
+        description: >
+
+      - name: CUSTOMER
+        description: >
+
+      - name: SALESTERRITORY
+        description: >
+
+      - name: SALESPERSON
+        description: >
+
+      - name: SALESORDERHEADERSALESREASON
+        description: >
+
+      - name: SALESREASON
+        description: >
+
+      - name: STORE
+        description: >
+
+      - name: PRODUCT
+        description: >
+
+      - name: PRODUCTSUBCATEGORY
+        description: >
+
+      - name: PRODUCTCATEGORY
+        description: >
+
+      - name: PRODUCTCOSTHISTORY
+        description: >
+
+      - name: STATEPROVINCE
+        description: >
+
+      - name: PERSON
+        description: >
+
+      - name: BUSINESSENTITY
+        description: >
+
+      - name: COUNTRYREGION
+        description: >
+
+      - name: ADDRESS
+        description: >
+
+      - name: LOCATION
+        description: >
+
+      - name: PRODUCTMODEL
+        description: >
