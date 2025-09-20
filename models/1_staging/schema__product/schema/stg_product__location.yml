@@ -1,0 +1,6 @@
+
+version: 2
+
+models:
+  - name: stg_product__location
+    description: "A starter dbt model"

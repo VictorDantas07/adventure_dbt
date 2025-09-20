@@ -1,0 +1,6 @@
+
+version: 2
+
+models:
+  - name: stg_sales__salesorderdetail
+    description: "A starter dbt model"
